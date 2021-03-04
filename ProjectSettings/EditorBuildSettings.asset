@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c64fa5b186b77114481212332bccbecb
+  - enabled: 1
+    path: Assets/Scenes/AdventureMode/Adventure_01.unity
+    guid: 5db7e44e5cdf31142b326a6306bb9fd7
+  - enabled: 1
+    path: Assets/Scenes/AdventureMode/Adventure_02.unity
+    guid: 5c93b79e60e66134a87984d633990a65
+  - enabled: 1
+    path: Assets/Scenes/AdventureMode/Adventure_03.unity
+    guid: 4ca17c48665feea4d9fc3918b44ec5aa
+  - enabled: 1
+    path: Assets/Scenes/AdventureMode/Adventure_04.unity
+    guid: 5293bb59b3a217e4889524cedea1bfb2
+  - enabled: 1
+    path: Assets/Scenes/AdventureMode/Adventure_05.unity
+    guid: 15980cf491603a14e848e497b530bf09
+  - enabled: 1
+    path: Assets/Scenes/AdventureMode/Adventure_06.unity
+    guid: 520915a12dc83004c9026d7dde0da2de
+  - enabled: 1
+    path: Assets/Scenes/AdventureMode/Adventure_07.unity
+    guid: f73b93c384b92cf4db760ce2487eb8ea
+  - enabled: 1
+    path: Assets/Scenes/AdventureMode/Adventure_08.unity
+    guid: 3aa0b588896112343b95d393e13e45fb
+  - enabled: 1
+    path: Assets/Scenes/AdventureMode/Adventure_09.unity
+    guid: d6154f79710e32f45b16fee3e3cd7f14
+  - enabled: 1
+    path: Assets/Scenes/PuzzleMode/Puzzle_01.unity
+    guid: 3f75a87b57261784eb55593651f3f68b
+  - enabled: 1
+    path: Assets/Scenes/PuzzleMode/Puzzle_02.unity
+    guid: d137ee8181ddd244dad3fea1e34abb68
+  - enabled: 1
+    path: Assets/Scenes/PuzzleMode/Puzzle_03.unity
+    guid: 45578d6756ba62e4bb31d551d10b2b35
+  - enabled: 1
+    path: Assets/Scenes/PuzzleMode/Puzzle_04.unity
+    guid: cef7cc1993f888f4eb3e82b3212287a4
+  - enabled: 1
+    path: Assets/Scenes/PuzzleMode/Puzzle_05.unity
+    guid: 55792728472d1574fb2443ecdcbd4584
+  - enabled: 1
+    path: Assets/Scenes/PuzzleMode/Puzzle_06.unity
+    guid: 6819bc06f899e244eaea6c60b16737bf
+  - enabled: 1
+    path: Assets/Scenes/PuzzleMode/Puzzle_07.unity
+    guid: 73b0bb4a75d08364bad617381c93de9f
+  - enabled: 1
+    path: Assets/Scenes/PuzzleMode/Puzzle_08.unity
+    guid: f6d60dbdeaa547646acc33482e1d4ad8
+  - enabled: 1
+    path: Assets/Scenes/PuzzleMode/Puzzle_09.unity
+    guid: d11ab1674095fbe429f20f4eede675c1
+  m_configObjects: {}
